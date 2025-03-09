@@ -1,0 +1,15 @@
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.AssemblyInfoInputs.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.AssemblyInfo.cs
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.csproj.CoreCompileInputs.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.sourcelink.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\bin\Debug\net8.0\tpmodul4_103022300100.exe
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\bin\Debug\net8.0\tpmodul4_103022300100.deps.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\bin\Debug\net8.0\tpmodul4_103022300100.runtimeconfig.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\bin\Debug\net8.0\tpmodul4_103022300100.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\bin\Debug\net8.0\tpmodul4_103022300100.pdb
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\refint\tpmodul4_103022300100.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.pdb
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\tpmodul4_103022300100.genruntimeconfig.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\tpmodul4_103022300100\tpmodul4_103022300100\obj\Debug\net8.0\ref\tpmodul4_103022300100.dll
